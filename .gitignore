@@ -1,0 +1,17 @@
+# 소재 파일 (이미지/영상)
+2511_카테고리/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 환경 설정 (API 키 등)
+.env
+*.log
+
+# 결과 파일
+fb_*_results.json
