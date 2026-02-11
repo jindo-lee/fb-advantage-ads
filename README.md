@@ -21,8 +21,8 @@ ad_facebook/
 ├── fb_ad_config.xlsx      # 광고 카피 설정 파일 (Excel)
 ├── README.md
 ├── .gitignore
-└── 2511_카테고리/          # 소재 폴더 (git 미포함)
-    ├── 2511_캐릭터A/
+└── folder/          # 소재 폴더 (git 미포함)
+    ├── folder_a/
     │   ├── Img/           # 이미지 소재 (JPG)
     │   └── Video/         # 영상 소재 (MP4)
     └── ...
@@ -40,12 +40,12 @@ ad_facebook/
 
 ```
 소재폴더/
-├── 2511_캐릭터명/
+├── folder/
 │   ├── Img/
-│   │   ├── 캐릭터_이미지_작품명_202511_1080x1080.jpg
+│   │   ├── img.jpg
 │   │   └── ...
 │   └── Video/
-│       ├── 캐릭터_영상_작품명_202511_1080x1080.mp4
+│       ├── video.mp4
 │       └── ...
 ```
 
